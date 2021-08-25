@@ -17,7 +17,6 @@ itypes==1.2.0
 Jinja2==3.0.1
 MarkupSafe==2.0.1
 packaging==21.0
-# pkg-resources==0.0.0
 psycopg2==2.9.1
 psycopg2-binary==2.9.1
 pycodestyle==2.7.0
